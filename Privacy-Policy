@@ -10,9 +10,9 @@ When you create a profile, we may collect:
 
 Name
 Mobile Number
-Address
 Profile Photo
-b. Business Data
+password
+
 
 We collect and store:
 
@@ -22,7 +22,7 @@ Due/remaining balances
 Calculated financial insights
 c. Authentication Data
 
-We use Google Authentication to allow secure login.
+We use mobile and opassword to allow secure login and sogn up.
 
 d. Analytics Data
 
